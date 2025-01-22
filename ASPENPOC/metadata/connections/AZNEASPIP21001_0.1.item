@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_6O6nkNjLEe-97tReVIWQUQ" name="AZNEASPIP21001" id="_bDMLYNjLEe-97tReVIWQUQ" label="AZNEASPIP21001" dataPackage="_ps7fINjPEe-nzK4lfJAVPA" DatabaseType="Microsoft SQL Server" DriverClass="com.microsoft.sqlserver.jdbc.SQLServerDriver" URL="jdbc:sqlserver://AZNEASPIP21001.croda.com\SQLEXPRESS:1433;DatabaseName=Energy;" dbVersionString="MSSQL_PROP" Port="1433" Username="Talend" Password="enc:system.encryption.key.v1:wc8lJXdFLh4+B7FnrPq8jAfEg+rca4gciF/hsX04Hf+5ps85IvE=" ServerName="AZNEASPIP21001.croda.com\SQLEXPRESS" DatasourceName="" FileFieldName="" SID="Energy" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="dbo" supportNLS="false">
+    <taggedValue xmi:id="_6O6nkdjLEe-97tReVIWQUQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_6POJkNjLEe-97tReVIWQUQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_6POJkdjLEe-97tReVIWQUQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_6POJktjLEe-97tReVIWQUQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_6POJk9jLEe-97tReVIWQUQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_6POJlNjLEe-97tReVIWQUQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_6POJldjLEe-97tReVIWQUQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_6POJltjLEe-97tReVIWQUQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_mpC3YNjPEe-nzK4lfJAVPA" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_mpC3YdjPEe-nzK4lfJAVPA" tag="DB ProductVersion" value="16.00.1115"/>
+    <taggedValue xmi:id="_pq--YNjPEe-nzK4lfJAVPA" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_6O6nktjLEe-97tReVIWQUQ" key="CONN_PARA_KEY_USERNAME" value="Talend"/>
+    <parameters xmi:id="_OyWPYNjMEe-nzK4lfJAVPA" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_ps7fINjPEe-nzK4lfJAVPA" name="Energy" dataManager="_6O6nkNjLEe-97tReVIWQUQ">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_ps7fIdjPEe-nzK4lfJAVPA" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>
