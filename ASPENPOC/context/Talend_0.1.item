@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_H2wLcNlqEe-B4dIm3-hSaQ" confirmationNeeded="false" hide="false" name="Test">
+    <contextParameter xmi:id="_H2wLcdlqEe-B4dIm3-hSaQ" comment="" name="ASPEN_LASTLOAD" prompt="ASPEN_LASTLOAD?" promptNeeded="false" repositoryContextId="built-in" type="id_Date" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_H2wLctlqEe-B4dIm3-hSaQ" confirmationNeeded="false" hide="false" name="Prod">
+    <contextParameter xmi:id="_H2wLc9lqEe-B4dIm3-hSaQ" comment="" name="ASPEN_LASTLOAD" prompt="ASPEN_LASTLOAD?" promptNeeded="false" repositoryContextId="built-in" type="id_Date" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>
