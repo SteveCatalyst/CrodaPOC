@@ -1,13 +1,6 @@
 {
   "itemId" : "_wivZwNlmEe-B4dIm3-hSaQ",
   "contextList" : [ {
-    "contextName" : "Prod",
-    "repoId" : "_H2iJANlqEe-B4dIm3-hSaQ",
-    "parameterList" : [ {
-      "id" : "_H2wLc9lqEe-B4dIm3-hSaQ",
-      "name" : "ASPEN_LASTLOAD"
-    } ]
-  }, {
     "contextName" : "Test",
     "repoId" : "_H2iJANlqEe-B4dIm3-hSaQ",
     "parameterList" : [ {
