@@ -1,5 +1,16 @@
 [ {
   "baseItem" : {
+    "id" : "_MeBD4NpOEe-hGpHSBFHiDg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "ASPENPOC:_wivZwNlmEe-B4dIm3-hSaQ",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_wivZwNlmEe-B4dIm3-hSaQ",
     "version" : "0.1",
     "type" : "job"
